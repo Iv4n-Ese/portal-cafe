@@ -1,0 +1,23 @@
+tazas de cafe
+*	https://images.pexels.com/photos/1566308/pexels-photo-1566308.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+H	https://images.pexels.com/photos/894608/pexels-photo-894608.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+H	https://images.pexels.com/photos/19079909/pexels-photo-19079909/free-photo-of-blanco-y-negro-cafe-taza-copa.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+*	https://images.pexels.com/photos/2299028/pexels-photo-2299028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+p	https://images.pexels.com/photos/8023847/pexels-photo-8023847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+
+	2da cat
+X	https://images.pexels.com/photos/1727123/pexels-photo-1727123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+X	https://images.pexels.com/photos/19020664/pexels-photo-19020664/free-photo-of-cafeina-cafe-bebidas-vaso.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+X	https://images.pexels.com/photos/3154094/pexels-photo-3154094.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+
+cafe grano
+	https://images.pexels.com/photos/19178342/pexels-photo-19178342/free-photo-of-cafeina-cafe-taza-copa.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+
+cafeterias
+p	https://images.pexels.com/photos/4946625/pexels-photo-4946625.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+p	https://images.pexels.com/photos/2067431/pexels-photo-2067431.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+p 	https://images.pexels.com/photos/683039/pexels-photo-683039.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+	https://images.pexels.com/photos/1089570/pexels-photo-1089570.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+
+precios morado
+	

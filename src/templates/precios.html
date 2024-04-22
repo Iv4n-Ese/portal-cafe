@@ -1,0 +1,41 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+<h1>Precios, descuentos y productos</h1>
+    <div class="col-md-12">
+        <div class="card mb-3 precios-img">
+            <img src="https://images.pexels.com/photos/683039/pexels-photo-683039.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Clásico</h5>
+              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <div class="alert alert-warning" role="alert">
+                Producto con descuento del %
+              </div>
+              <p class="card-text"><small class="text-body-secondary">Disponibilidad inmediata</small></p>
+            </div>
+        </div>
+        <div class="card mb-3 precios-img">
+            <img src="https://images.pexels.com/photos/4946625/pexels-photo-4946625.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Gourmet</h5>
+              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <div class="alert alert-danger" role="alert">
+                Producto con descuento del %
+              </div>
+              
+              <p class="card-text"><small class="text-body-secondary">Disponibilidad inmediata, consulte existencias</small></p>
+            </div>
+        </div>
+        <div class="card mb-3 precios-img">
+            <img src="https://images.pexels.com/photos/2067431/pexels-photo-2067431.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Internacional</h5>
+              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text"><small class="text-body-secondary">Disponibilidad de 1 a 2 semanas</small></p>
+            </div>
+        </div>
+
+        
+    </div>
+
+{% endblock %}

@@ -1,0 +1,73 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+<h1>Formulario de contacto</h1>
+    <div class="col-md-12">
+        
+        <form class="row g-3 needs-validation" novalidate>
+            <div class="col-md-4">
+              <label for="validationCustom01" class="form-label">Nombre(s)</label>
+              <input type="text" class="form-control" id="validationCustom01" value="" required>
+              <div class="invalid-feedback">
+                Ingrese su(s) nombre(s)
+              </div>
+            </div>
+            <div class="col-md-4">
+              <label for="validationCustom02" class="form-label">Apellido(s)</label>
+              <input type="text" class="form-control" id="validationCustom02" value="" required>
+              <div class="invalid-feedback">
+                Ingrese su(s) apellido(s)
+              </div>
+            </div>
+            <div class="col-md-4">
+              <label for="validationCustomUsername" class="form-label">Correo</label>
+              <div class="input-group has-validation">
+                <span class="input-group-text" id="inputGroupPrepend">@</span>
+                <input type="text" class="form-control" id="validationCustomUsername" aria-describedby="inputGroupPrepend" required>
+                <div class="invalid-feedback">
+                  Ingrese su cuenta de correo
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <label for="validationCustom03" class="form-label">Ciudad</label>
+              <input type="text" class="form-control" id="validationCustom03" required>
+              <div class="invalid-feedback">
+                Ingrese su ciudad
+              </div>
+            </div>
+            <div class="col-md-3">
+              <label for="validationCustom04" class="form-label">Teléfono</label>
+              <input type="text" class="form-control" id="validationCustom03" required>
+              <div class="invalid-feedback">
+                Ingrese su numero de teléfono fijo
+              </div>
+            </div>
+            <div class="col-md-3">
+              <label for="validationCustom05" class="form-label">Celular</label>
+              <input type="text" class="form-control" id="validationCustom05" required>
+              <div class="invalid-feedback">
+                Ingrese su numero de teléfono móvil
+              </div>
+            </div>
+            <div class="col-12">
+                <label for="validationCustom06" class="form-label">
+                    Escriba su mensaje
+                </label>
+                <div class="form-floating">
+                    <textarea class="form-control" placeholder="Leave a comment here" id="validationCustom06" required="required"></textarea>
+                    <label for="validationCustom06">Deje su comentario</label>
+                </div>
+                <div class="invalid-feedback">
+                  Ingrese su comentario
+                </div>
+            </div>
+
+            <div class="col-12">
+              <button class="btn btn-primary" type="submit">Enviar</button>
+            </div>
+        </form>
+
+    </div>
+
+{% endblock %}
